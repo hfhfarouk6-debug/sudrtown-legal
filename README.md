@@ -7,3 +7,5 @@
 - https://hfhfarouk6-debug.github.io/sudrtown-legal/delete-account.html
 
 المصدر الأساسي للصفحات هو فولدر `site/` في مستودع تطبيق العميل. أي تعديل يتعمل هناك الأول، ويتنسخ هنا، ويتحدّث معاه نص `sadrgo_ui/lib/src/legal.dart`.
+
+الموقع بيتنشر من فرع `gh-pages`، فأي تعديل لازم يترفع عليه، أو على `main` وبعدين يتنسخ لـ`gh-pages`.
